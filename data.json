@@ -1,0 +1,21 @@
+{
+    "Menu": {
+        "Redbull": 4.99,
+        "Cafe": 3.99,
+        "Lemonade": 6.44,
+        "Orange juice": 1.99
+    },
+    "Order History": [
+        {
+            "Table Number": 6,
+            "Items": [
+                "Orange juice",
+                "Cafe"
+            ],
+            "Total Cost": 5.98
+        }
+    ],
+    "Table Status": {
+        "6": "Vacant"
+    }
+}
